@@ -1,8 +1,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hi there   
 
-This is the place where I keep some stuff 🍃🕸️
+This is the place where I keep some stuff
 
-- 🔭 Since 2019 stalling to fix my personal site
+- <s>🔭 Since 2019 stalling to fix my personal site</s>
 - 🌱 Currently learning Flutter, GSAP, OGL and Three.js
 
 ### Things I usually code with
