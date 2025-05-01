@@ -3,7 +3,7 @@
 This is the place where I keep some stuff
 
 - <s>🔭 Since 2019 stalling to fix my personal site</s>
-- 🌱 Currently learning Flutter, GSAP, OGL and Three.js
+- 🌱 Currently learning Game Development, Flutter, GSAP, OGL and Three.js
 
 ### Things I usually code with
 
